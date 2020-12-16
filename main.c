@@ -18,9 +18,6 @@
 *    
 */
 
-
-
-
 #include <linux/videodev2.h>
 #include <stdio.h>
 #include <sys/select.h>
@@ -43,7 +40,6 @@ int operation()
 	 *	2、宽高　　640x480
 	 *	3、帧率	
 	 *	4、
-	 *	
 	 *
 	 * */		
 	int fps = 30;
